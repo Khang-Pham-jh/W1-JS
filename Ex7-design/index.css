@@ -1,13 +1,3 @@
-/*
-  Refactored stylesheet
-  - Figma-locked 425px mobile and 1440px desktop dimensions are preserved.
-  - Intermediate responsive behavior is isolated in media queries.
-  - JS-enhanced states live here; index_refactored.js only toggles classes and attributes.
-*/
-
-/* =========================================================
-   01. Design lock layer
-   ========================================================= */
 
 .desktop-1 {
   width: 100%;
